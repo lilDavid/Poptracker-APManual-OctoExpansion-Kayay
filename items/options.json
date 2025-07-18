@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Mem Cake Hunt",
+    "codes": "CakeHunt",
+    "img": "images/memcake.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Mem Cake Amount",
+    "codes": "MemCakesNeeded",
+    "img": "images/memcake.png",
+    "type": "consumable",
+    "min_quantity": 10,
+    "max_quantity": 40
+  },
+  {
+    "name": "Include Inner Agent 3",
+    "codes": "IncludeInnerAgent",
+    "img": "images/agent3.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Include Escape",
+    "codes": "IncludeEscape",
+    "img": "images/tartar.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Final Boss as Goal",
+    "codes": "TartarGoal",
+    "img": "images/tartar.png",
+    "type": "toggle"
+  }
+]

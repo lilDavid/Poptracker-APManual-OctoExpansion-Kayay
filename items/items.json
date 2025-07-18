@@ -1,0 +1,231 @@
+[
+  {
+    "name": "Line A",
+    "codes": "LineA",
+    "img": "images/lines/a.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line B",
+    "codes": "LineB",
+    "img": "images/lines/b.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line C",
+    "codes": "LineC",
+    "img": "images/lines/c.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line D",
+    "codes": "LineD",
+    "img": "images/lines/d.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line E",
+    "codes": "LineE",
+    "img": "images/lines/e.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line F",
+    "codes": "LineF",
+    "img": "images/lines/f.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line G",
+    "codes": "LineG",
+    "img": "images/lines/g.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line H",
+    "codes": "LineH",
+    "img": "images/lines/h.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line I",
+    "codes": "LineI",
+    "img": "images/lines/i.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line J",
+    "codes": "LineJ",
+    "img": "images/lines/j.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Sub Weapon License",
+    "codes": "SubWeapons",
+    "img": "images/splatbomb.png",
+    "type": "toggle"
+  },
+  {
+    "name": "8-Ball License",
+    "codes": "8Ball",
+    "img": "images/8ball.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Baller License",
+    "codes": "Baller",
+    "img": "images/specials/baller.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Inkjet License",
+    "codes": "Inkjet",
+    "img": "images/specials/inkjet.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Foundational Thang",
+    "codes": "ControlThang,FoundationalThang",
+    "img": "images/thangs/foundational.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Precision Thang",
+    "codes": "PointyThang,PrecisionThang",
+    "img": "images/thangs/precision.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Surrounding Thang",
+    "codes": "ContainerThang,SurroundingThang",
+    "img": "images/thangs/surrounding.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Sealing Thang",
+    "codes": "LidThang,SealingThang",
+    "img": "images/thangs/sealing.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Shooter License",
+    "codes": "Shooters",
+    "img": "images/classes/shooter.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Roller License",
+    "codes": "Rollers",
+    "img": "images/classes/roller.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Charger License",
+    "codes": "Chargers",
+    "img": "images/classes/charger.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Slosher License",
+    "codes": "Sloshers",
+    "img": "images/classes/slosher.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Splatling License",
+    "codes": "Splatlings",
+    "img": "images/classes/splatling.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Dualies License",
+    "codes": "Dualies",
+    "img": "images/classes/dualies.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Brella License",
+    "codes": "Brellas",
+    "img": "images/classes/brella.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Blaster License",
+    "codes": "Blasters",
+    "img": "images/classes/blaster.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Brush License",
+    "codes": "Brushes",
+    "img": "images/classes/brush.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Splashdown License",
+    "codes": "Splashdown",
+    "img": "images/specials/splashdown.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Weapon Malfunction",
+    "codes": "WeaponTrap",
+    "img": "images/unarmed.png",
+    "type": "consumable"
+  },
+  {
+    "name": "Mem Cake",
+    "codes": "MemCake",
+    "img": "images/memcake.png",
+    "type": "consumable",
+    "max_quantity": 40
+  },
+  {
+    "name": "Bomb Launcher License",
+    "codes": "BombLauncher",
+    "img": "images/specials/bomblauncher.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Sting Ray License",
+    "codes": "StingRay",
+    "img": "images/specials/stingray.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Ink Armor License",
+    "codes": "InkArmor",
+    "img": "images/specials/inkarmor.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Bubble Blower License",
+    "codes": "BubbleBlower",
+    "img": "images/specials/bubbleblower.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Tenta Missile License",
+    "codes": "TentaMissiles",
+    "img": "images/specials/tentamissiles.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Locker Key",
+    "codes": "LockerKey",
+    "img": "images/key.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Escaped",
+    "codes": "Escaped",
+    "img": "images/go.png",
+    "type": "toggle"
+  },
+  {
+    "name": "Line Escape",
+    "codes": "LineEscape",
+    "img": "images/go.png",
+    "type": "toggle"
+  }
+]

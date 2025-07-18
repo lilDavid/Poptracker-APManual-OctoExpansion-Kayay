@@ -1,0 +1,1630 @@
+[
+  {
+    "name": "Deepsea Metro",
+    "chest_opened_img": "images/checked.png",
+    "children": [
+      {
+        "name": "A01-G06 - Gnarly Rails Station",
+        "chest_unopened_img": "images/memcakes/firefin.png",
+        "sections": [
+          { "name": "Ride on!" }
+        ],
+        "access_rules": [
+          "LineA,Dualies",
+          "LineG,Dualies"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 376,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A02 - Far-Out Station",
+        "chest_unopened_img": "images/memcakes/inklingsquid.png",
+        "sections": [
+          { "name": "Blast from the past!" }
+        ],
+        "access_rules": [
+          "LineA,Shooters",
+          "LineA,Rollers",
+          "LineA,Brellas"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 435,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A03-B01 - Wassup 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/octarian.png",
+        "sections": [
+          { "name": "Signs point to yes..." }
+        ],
+        "access_rules": [
+          "LineA,8Ball,Shooters",
+          "LineB,8Ball,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 495,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A04 - Roll Out Station",
+        "chest_unopened_img": "images/memcakes/inklingpink.png",
+        "sections": [
+          { "name": "Baller status!" }
+        ],
+        "access_rules": [
+          "LineA,Baller"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 555,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A05 - Fake Plastic Station",
+        "chest_unopened_img": "images/memcakes/inklingorange.png",
+        "sections": [
+          { "name": "Looks like the real thing..." }
+        ],
+        "access_rules": [
+          "LineA,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 615,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A06 - Bounce With Me Station",
+        "chest_unopened_img": "images/memcakes/inklinggreen.png",
+        "sections": [
+          { "name": "Nice air, bud!" }
+        ],
+        "access_rules": [
+          "LineA,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 676,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A07 - Maverick Station",
+        "chest_unopened_img": "images/memcakes/inklingblue.png",
+        "sections": [
+          { "name": "Revvin' up your Inkjet..." }
+        ],
+        "access_rules": [
+          "LineA,Inkjet"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 735,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A08-C03 - Bumpin' 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/flyfish.png",
+        "sections": [
+          { "name": "Better not tell you now..." }
+        ],
+        "access_rules": [
+          "LineA,8Ball,Shooters",
+          "LineA,8Ball,Sloshers",
+          "LineA,8Ball,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "B02-I09 - Poppin' Fresh Station",
+        "chest_unopened_img": "images/memcakes/poweregg.png",
+        "sections": [
+          { "name": "Grind it out!" }
+        ],
+        "access_rules": [
+          "LineB,Shooters",
+          "LineB,Chargers",
+          "LineI,Shooters",
+          "LineI,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 495,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "B03 - Spin Docto Station",
+        "chest_unopened_img": "images/memcakes/twintacle.png",
+        "sections": [
+          { "name": "Just go ahead now..." }
+        ],
+        "access_rules": [
+          "LineB,Shooters",
+          "LineB,Blasters",
+          "LineB,Rollers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 495,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "B04 - Rad Ride Station",
+        "chest_unopened_img": "images/memcakes/octocopter.png",
+        "sections": [
+          { "name": "Just cruisin'..." }
+        ],
+        "access_rules": [
+          "LineB,Splatlings",
+          "LineB,Shooters",
+          "LineB,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 435,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "B05-G09 - Wack 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/inkline.png",
+        "sections": [
+          { "name": "It is decidedly so..." }
+        ],
+        "access_rules": [
+          "LineB,8Ball,Blasters",
+          "LineB,8Ball,Shooters",
+          "LineB,8Ball,Brushes",
+          "LineG,8Ball,Blasters",
+          "LineG,8Ball,Shooters",
+          "LineG,8Ball,Brushes"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 376,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "B06 - Notorious Station",
+        "chest_unopened_img": "images/memcakes/octobomber.png",
+        "sections": [
+          { "name": "Blowin' up like it's all good." }
+        ],
+        "access_rules": [
+          "LineB,SubWeapons"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 315,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "B07 - Fly 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/tentakook.png",
+        "sections": [
+          { "name": "You may rely on it..." }
+        ],
+        "access_rules": [
+          "LineB,8Ball"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 255,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "B08-I05 - Righteous Rails Station",
+        "chest_unopened_img": "images/memcakes/sunkenscroll.png",
+        "sections": [
+          { "name": "Gnarly grindage!" }
+        ],
+        "access_rules": [
+          "LineB,Shooters",
+          "LineB,Chargers",
+          "LineI,Shooters",
+          "LineI,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 255,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "B09 - Grab & Go Station",
+        "chest_unopened_img": "images/thangs/foundational.png",
+        "sections": [
+          { "name": "Here lies the foundational thang..." }
+        ],
+        "access_rules": [
+          "LineB,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 255,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "B10-G04 - Ink 'n' Slide Station",
+        "chest_unopened_img": "images/memcakes/skalop.png",
+        "sections": [
+          { "name": "Furl realz!" }
+        ],
+        "access_rules": [
+          "LineB,Chargers",
+          "LineB,Shooters",
+          "LineB,Rollers",
+          "LineG,Chargers",
+          "LineG,Shooters",
+          "LineG,Rollers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 255,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "B11 - Tubular 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/octopod.png",
+        "sections": [
+          { "name": "Outlook not so good..." }
+        ],
+        "access_rules": [
+          "LineB,8Ball,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 255,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "B12 - Brute Rollup Station",
+        "chest_unopened_img": "images/memcakes/octostamp.png",
+        "sections": [
+          { "name": "Rock 'n' roll 'em!" }
+        ],
+        "access_rules": [
+          "LineB,Rollers",
+          "LineB,Brushes"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 315,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "B13 - Phat Splatz Station",
+        "chest_unopened_img": "images/memcakes/octozeppelin.png",
+        "sections": [
+          { "name": "Bring da ruckus!" }
+        ],
+        "access_rules": [
+          "LineB,Shooters",
+          "LineB,Rollers",
+          "LineB,Brushes"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 376,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "B14 - Breakdance Station",
+        "chest_unopened_img": "images/memcakes/tentacle.png",
+        "sections": [
+          { "name": "Step it up!" }
+        ],
+        "access_rules": [
+          "LineB,Sloshers",
+          "LineB,Rollers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 435,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "B15-D01 - Ink from Above Station",
+        "chest_unopened_img": "images/memcakes/spawn.png",
+        "sections": [
+          { "name": "Heads up, missiles up!" }
+        ],
+        "access_rules": [
+          "LineB,Dualies",
+          "LineD,Dualies"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 495,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "B16 - Pop Rock Station",
+        "chest_unopened_img": "images/memcakes/octoling.png",
+        "sections": [
+          { "name": "As 50 yellow balloons go by..." }
+        ],
+        "access_rules": [
+          "LineB,Blasters",
+          "LineB,Sloshers",
+          "LineB,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 495,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "C01-D06 - Radical Rails Station",
+        "chest_unopened_img": "images/memcakes/bumper.png",
+        "sections": [
+          { "name": "Mondo grindage!" }
+        ],
+        "access_rules": [
+          "LineC,Shooters",
+          "LineC,Sloshers",
+          "LineD,Shooters",
+          "LineD,Sloshers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "C02 - Shrinky Ink Station",
+        "chest_unopened_img": "images/memcakes/chum.png",
+        "sections": [
+          { "name": "Dink and dunk!" }
+        ],
+        "access_rules": [
+          "LineC,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "C04 - Move It Move It Station",
+        "chest_unopened_img": "images/memcakes/scrapper.png",
+        "sections": [
+          { "name": "Ya like to..." }
+        ],
+        "access_rules": [
+          "LineC"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "C05-F04 - Stamped-Up Station",
+        "chest_unopened_img": "images/memcakes/jelfonzo.png",
+        "sections": [
+          { "name": "Stamp - collaborate and glisten!" }
+        ],
+        "access_rules": [
+          "LineC,SubWeapons,Shooters",
+          "LineF,SubWeapons,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "C06 - Bust 'n' Move Station",
+        "chest_unopened_img": "images/memcakes/stinger.png",
+        "sections": [
+          { "name": "Don't just stand there..." }
+        ],
+        "access_rules": [
+          "LineC,Sloshers",
+          "LineC,Shooters",
+          "LineC,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "C07 - Totally 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/steelhead.png",
+        "sections": [
+          { "name": "Reply hazy. Try again..." }
+        ],
+        "access_rules": [
+          "LineC,Shooters",
+          "LineC,Brushes"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "C08 - Right Round Station",
+        "chest_unopened_img": "images/memcakes/steeleel.png",
+        "sections": [
+          { "name": "Round round round round..." }
+        ],
+        "access_rules": [
+          "LineC,Chargers",
+          "LineC,Splatlings",
+          "LineC,Blaster"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 856,
+            "y": 606
+          }
+        ]
+      },
+      {
+        "name": "C09 - Bodacious 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/maws.png",
+        "sections": [
+          { "name": "As I see it, yes..." }
+        ],
+        "access_rules": [
+          "LineC,8Ball,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 915,
+            "y": 606
+          }
+        ]
+      },
+      {
+        "name": "C10 - McFly Station",
+        "chest_unopened_img": "images/memcakes/drizzler.png",
+        "sections": [
+          { "name": "Do it with some style!" }
+        ],
+        "access_rules": [
+          "LineC,Inkjet"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 977,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "C11 - Abracadabra Station",
+        "chest_unopened_img": "images/memcakes/goldie.png",
+        "sections": [
+          { "name": "Now you see me..." }
+        ],
+        "access_rules": [
+          "LineC,Splatlings",
+          "LineC,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 977,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "C12-F07 - Matchmaker Station",
+        "chest_unopened_img": "images/memcakes/crustysean.png",
+        "sections": [
+          { "name": "What's up, dog?" }
+        ],
+        "access_rules": [
+          "LineC,Shooters",
+          "LineC,Chargers",
+          "LineF,Shooters",
+          "LineF,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 977,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "C13 - Smash & Dash Station",
+        "chest_unopened_img": "images/thangs/precision.png",
+        "sections": [
+          { "name": "Here lies the precision thang..." }
+        ],
+        "access_rules": [
+          "LineC,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 977,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "C14-J05 - Stick 'n' Move Station",
+        "chest_unopened_img": "images/memcakes/neonseaslugs.png",
+        "sections": [
+          { "name": "Float like a butterflyfish..." }
+        ],
+        "access_rules": [
+          "LineC,Dualies",
+          "LineC,Dualies"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 977,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "D02 - One-Shot Station",
+        "chest_unopened_img": "images/memcakes/tower.png",
+        "sections": [
+          { "name": "Do not miss your chance..." }
+        ],
+        "access_rules": [
+          "LineD,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 555,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D03-H01 - Slap Bracelet Station",
+        "chest_unopened_img": "images/memcakes/jr.png",
+        "sections": [
+          { "name": "2 cool 4 school" }
+        ],
+        "access_rules": [
+          "LineD,SubWeapons,Chargers",
+          "LineH,SubWeapons,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 615,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D04 - Mad Props Station",
+        "chest_unopened_img": "images/memcakes/rainmaker.png",
+        "sections": [
+          { "name": "Spin to win!" }
+        ],
+        "access_rules": [
+          "LineD,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 676,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D05 - All That 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/powerclam.png",
+        "sections": [
+          { "name": "My sources say no..." }
+        ],
+        "access_rules": [
+          "LineD,8Ball,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 735,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D07 - Targetbuster Station",
+        "chest_unopened_img": "images/memcakes/dummy.png",
+        "sections": [
+          { "name": "Who you gonna call?" }
+        ],
+        "access_rules": [
+          "LineD,8Ball,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 856,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D08-J03 - Girl Power Station",
+        "chest_unopened_img": "images/memcakes/skalophoodie.png",
+        "sections": [
+          { "name": "Ink-a-zig ah..." }
+        ],
+        "access_rules": [
+          "LineD,Inkjet",
+          "LineD,Baller",
+          "LineD,Splashdown",
+          "LineJ,Inkjet",
+          "LineJ,Baller",
+          "LineJ,Splashdown"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 915,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D09 - Goose Station",
+        "chest_unopened_img": "images/memcakes/balloon.png",
+        "sections": [
+          { "name": "Listen to its howlin' roar" }
+        ],
+        "access_rules": [
+          "LineD,Inkjet"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 977,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "D10 - Labyrinth Station",
+        "chest_unopened_img": "images/memcakes/tree.png",
+        "sections": [
+          { "name": "Splat magic splat!" }
+        ],
+        "access_rules": [
+          "LineD,Dualies",
+          "LineD,Brellas",
+          "LineD,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1035,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "D11-J06 - Ink & Watch Station",
+        "chest_unopened_img": "images/memcakes/orangearrows.png",
+        "sections": [
+          { "name": "Watch out now!" }
+        ],
+        "access_rules": [
+          "LineD,Blasters",
+          "LineD,Sloshers",
+          "LineD,Rollers",
+          "LineJ,Blasters",
+          "LineJ,Sloshers",
+          "LineJ,Rollers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1035,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "E01-I03 - No Whammy Station",
+        "chest_unopened_img": "images/memcakes/octavio.png",
+        "sections": [
+          { "name": "Don't stress your luck..." }
+        ],
+        "access_rules": [
+          "LineE",
+          "LineI"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 134,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "E02 - Bust & Run Station",
+        "chest_unopened_img": "images/thangs/surrounding.png",
+        "sections": [
+          { "name": "Here lies the surrounding thang..." }
+        ],
+        "access_rules": [
+          "LineE,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 134,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "E03 - Don't Ralph Station",
+        "chest_unopened_img": "images/memcakes/splattershot.png",
+        "sections": [
+          { "name": "Gettin' dizzy with it..." }
+        ],
+        "access_rules": [
+          "LineE,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 134,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "E04 - Heinous 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/roller.png",
+        "sections": [
+          { "name": "Cannot predict now..." }
+        ],
+        "access_rules": [
+          "LineE,8Ball,Splatlings",
+          "LineE,8Ball,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 194,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E05 - Hypercolor Station",
+        "chest_unopened_img": "images/memcakes/splatbomb.png",
+        "sections": [
+          { "name": "Ink on, ink off..." }
+        ],
+        "access_rules": [
+          "LineE,Rollers",
+          "LineE,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 255,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E06 - Swass 8-Ball Station",
+        "chest_unopened_img": "images/memcakes/burstbomb.png",
+        "sections": [
+          { "name": "Don't count on it..." }
+        ],
+        "access_rules": [
+          "LineE,8Ball"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 315,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E07-G10 - Iceman Station",
+        "chest_unopened_img": "images/memcakes/tonik.png",
+        "sections": [
+          { "name": "Jet into the danger zone..." }
+        ],
+        "access_rules": [
+          "LineE,Inkjet",
+          "LineG,Inkjet"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 376,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E08 - Da Bomb Station",
+        "chest_unopened_img": "images/memcakes/suctionbomb.png",
+        "sections": [
+          { "name": "Splat Bomb diggity" }
+        ],
+        "access_rules": [
+          "LineE,SubWeapons"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 435,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E09 - Squee-G Funk Station",
+        "chest_unopened_img": "images/memcakes/curlingbomb.png",
+        "sections": [
+          { "name": "Inkulators, mount up!" }
+        ],
+        "access_rules": [
+          "LineE,Blasters",
+          "LineE,SubWeapons"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 495,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E10 - Cratebuster Station",
+        "chest_unopened_img": "images/memcakes/autobomb.png",
+        "sections": [
+          { "name": "Ain't afraid of no crates" }
+        ],
+        "access_rules": [
+          "LineE,Splashdown,Brushes",
+          "LineE,Splashdown,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 555,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E11 - Bodacious Rotation Station",
+        "chest_unopened_img": "images/memcakes/toxicmist.png",
+        "sections": [
+          { "name": "Don't get psyched out!" }
+        ],
+        "access_rules": [
+          "LineE,Sloshers",
+          "LineE,Rollers",
+          "LineE,Splatlings"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 615,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "E12-F01 - Drop the Bass Station",
+        "chest_unopened_img": "images/memcakes/pearl.png",
+        "sections": [
+          { "name": "Stomp 'til you dromp." }
+        ],
+        "access_rules": [
+          "LineE,Dualies",
+          "LineE,Chargers",
+          "LineE,Shooters",
+          "LineF,Dualies",
+          "LineF,Chargers",
+          "LineF,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 676,
+            "y": 546
+          }
+        ]
+      },
+      {
+        "name": "F02 - Slow Ride Station",
+        "chest_unopened_img": "images/memcakes/marina.png",
+        "sections": [
+          { "name": "Take it easy..." }
+        ],
+        "access_rules": [
+          "LineF,Chargers",
+          "LineF,SubWeapons"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 676,
+            "y": 485
+          }
+        ]
+      },
+      {
+        "name": "F03 - Pop Star Station",
+        "chest_unopened_img": "images/memcakes/flow.png",
+        "sections": [
+          { "name": "Don't stop 'til you pop enough!" }
+        ],
+        "access_rules": [
+          "LineF,Shooters",
+          "LineF,Blasters",
+          "LineF,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 735,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "F05 - Popalicious Station",
+        "chest_unopened_img": "images/memcakes/sheldon.png",
+        "sections": [
+          { "name": "The fun don't stop!" }
+        ],
+        "access_rules": [
+          "LineF,Shooters",
+          "LineF,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 856,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "F06 - Duh Oh Station",
+        "chest_unopened_img": "images/memcakes/bisk.png",
+        "sections": [
+          { "name": "Who let the pods out?" }
+        ],
+        "access_rules": [
+          "LineF,Blasters",
+          "LineF,Chargers",
+          "LineF,Splatlings"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 915,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "F08 - Jump Station",
+        "chest_unopened_img": "images/memcakes/murch.png",
+        "sections": [
+          { "name": "Might as well..." }
+        ],
+        "access_rules": [
+          "LineF,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1035,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "F09 - Bring It Station",
+        "chest_unopened_img": "images/memcakes/judd.png",
+        "sections": [
+          { "name": "Pound the rock!" }
+        ],
+        "access_rules": [
+          "LineF,Shooters",
+          "LineF,Sloshers",
+          "LineF,Dualies"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1095,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "F10 - Cubular Station",
+        "chest_unopened_img": "images/memcakes/grizz.png",
+        "sections": [
+          { "name": "What's the dealio?" }
+        ],
+        "access_rules": [
+          "LineF,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1155,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "F11-J08 - Whack-Fu Station",
+        "chest_unopened_img": "images/memcakes/knittedhat.png",
+        "sections": [
+          { "name": "Whack Attack!" }
+        ],
+        "access_rules": [
+          "LineF,Baller",
+          "LineJ,Baller"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1155,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "G01-I01 - Toastmaster Station",
+        "chest_unopened_img": "images/memcakes/marie.png",
+        "sections": [
+          { "name": "Y'all bready for this?" }
+        ],
+        "access_rules": [
+          "LineG,Shooters",
+          "LineG,Blasters",
+          "LineG,Brushes",
+          "LineI,Shooters",
+          "LineI,Blasters",
+          "LineI,Brushes"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 73,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "G02 - Hasta La Vista Station",
+        "chest_unopened_img": "images/memcakes/tentatek.png",
+        "sections": [
+          { "name": "I know now why you ink..." }
+        ],
+        "access_rules": [
+          "LineG,Blasters",
+          "LineG,Splatlings",
+          "LineG,Rollers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 134,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "G03 - House Party Station",
+        "chest_unopened_img": "images/memcakes/zekko.png",
+        "sections": [
+          { "name": "No kiddin' or playin'." }
+        ],
+        "access_rules": [
+          "LineG,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 194,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "G05 - Bustalicious Station",
+        "chest_unopened_img": "images/memcakes/squidforce.png",
+        "sections": [
+          { "name": "Did I do that?" }
+        ],
+        "access_rules": [
+          "LineG,Chargers",
+          "LineG,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 315,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "G07-I07 - Ride with Me Station",
+        "chest_unopened_img": "images/memcakes/minizapfish.png",
+        "sections": [
+          { "name": "Shotgun!" }
+        ],
+        "access_rules": [
+          "LineG,Shooters",
+          "LineG,Brushes",
+          "LineG,Blasters",
+          "LineI,Shooters",
+          "LineI,Brushes",
+          "LineI,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 376,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "G08 - Freakazoid Station",
+        "chest_unopened_img": "images/memcakes/zink.png",
+        "sections": [
+          { "name": "Mad skillz, yo!" }
+        ],
+        "access_rules": [
+          "LineG,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 376,
+            "y": 424
+          }
+        ]
+      },
+      {
+        "name": "H02 - Ballercise Station",
+        "chest_unopened_img": "images/memcakes/mole.png",
+        "sections": [
+          { "name": "Feel the burn!" }
+        ],
+        "access_rules": [
+          "LIneH,Baller"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 615,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "H03 - Sweet Ride Station",
+        "chest_unopened_img": "images/memcakes/ishipit.png",
+        "sections": [
+          { "name": "Easy, breezy..." }
+        ],
+        "access_rules": [
+          "LineH,Shooters",
+          "LineH,Blasters",
+          "LineH,Brellas"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 676,
+            "y": 57
+          }
+        ]
+      },
+      {
+        "name": "H04 - Shooter McStation",
+        "chest_unopened_img": "images/memcakes/graffiti.png",
+        "sections": [
+          { "name": "Just innnk it in..." }
+        ],
+        "access_rules": [
+          "LineH,Blasters",
+          "LineH,Chargers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 735,
+            "y": 57
+          }
+        ]
+      },
+      {
+        "name": "H05 - Ink It Station",
+        "chest_unopened_img": "images/memcakes/lilmax.png",
+        "sections": [
+          { "name": "Ink it real good!" }
+        ],
+        "access_rules": [
+          "LineH,Splatlings"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 795,
+            "y": 57
+          }
+        ]
+      },
+      {
+        "name": "H06 - Break & Bounce Station",
+        "chest_unopened_img": "images/thangs/sealing.png",
+        "sections": [
+          { "name": "Here lies the sealing thang..." }
+        ],
+        "access_rules": [
+          "LineH,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 856,
+            "y": 57
+          }
+        ]
+      },
+      {
+        "name": "H07-J01 - Cool Your Jets Station",
+        "chest_unopened_img": "images/memcakes/whitetee.png",
+        "sections": [
+          { "name": "Whatever, Dad!" }
+        ],
+        "access_rules": [
+          "LineH,Inkjet",
+          "LineJ,Inkjet"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 914,
+            "y": 57
+          }
+        ]
+      },
+      {
+        "name": "I02 - Dinky Ink Station",
+        "chest_unopened_img": "images/memcakes/callie.png",
+        "sections": [
+          { "name": "Shrink and sink!" }
+        ],
+        "access_rules": [
+          "LineI,Shooters",
+          "LineI,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 73,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "I04 - Can't Touch This Station",
+        "chest_unopened_img": "images/memcakes/sardinium.png",
+        "sections": [
+          { "name": "My my my my..." }
+        ],
+        "access_rules": [
+          "LineI,Chargers",
+          "LineI,Brellas",
+          "LineI,Rollers"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 194,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "I06 - All Eyez Station",
+        "chest_unopened_img": "images/memcakes/key.png",
+        "sections": [
+          { "name": "Can't c me..." }
+        ],
+        "access_rules": [
+          "LineI,Chargers",
+          "LineI,Shooters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 315,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "I08 - Radio Station",
+        "chest_unopened_img": "images/memcakes/zapfish.png",
+        "sections": [
+          { "name": "Ten four, good buddy!" }
+        ],
+        "access_rules": [
+          "LineI,Sloshers",
+          "LineI,Brellas",
+          "LineI,Dualies"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 435,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "J02 - Matchmaster Station",
+        "chest_unopened_img": "images/memcakes/kingtank.png",
+        "sections": [
+          { "name": "Break it down!" }
+        ],
+        "access_rules": [
+          "LineJ,Shooters",
+          "LineJ,Chargers",
+          "LineJ,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 914,
+            "y": 119
+          }
+        ]
+      },
+      {
+        "name": "J04 - Footloose Station",
+        "chest_unopened_img": "images/memcakes/mintdakroniks.png",
+        "sections": [
+          { "name": "Watch your step!" }
+        ],
+        "access_rules": [
+          "LineJ,Brellas",
+          "LineJ,Blasters",
+          "LineJ,Brushes"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 914,
+            "y": 241
+          }
+        ]
+      },
+      {
+        "name": "J07 - Outrageous Station",
+        "chest_unopened_img": "images/memcakes/takorokamesh.png",
+        "sections": [
+          { "name": "Truly, truly, truly." }
+        ],
+        "access_rules": [
+          "LineJ,Brellas",
+          "LineJ,Sloshers",
+          "LineJ,Blasters"
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 1095,
+            "y": 300
+          }
+        ]
+      },
+      {
+        "name": "A00 - Central Station",
+        "sections": [
+          {
+            "name": "Inner Agent 3",
+            "access_rules": ["Shooters,SubWeapons,LockerKey"],
+            "visibility_rules": "IncludeInnerAgent",
+            "chest_unopened_img": "images/agent3.png"
+          },
+          {
+            "name": "Goal Obtained",
+            "access_rules": ["$can_goal"],
+            "chest_unopened_img": "images/cuttlefish.png"
+          },
+          {
+            "name": "Game Complete",
+            "access_rules": ["Escaped"],
+            "chest_unopened_img": "images/offthehook.png",
+            "visibility_rules": "Never"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 615,
+            "y": 362
+          }
+        ]
+      },
+      {
+        "name": "A00 - Escape",
+        "chest_unopened_img": "images/go.png",
+        "sections": [
+          {
+            "name": "Coccyx Phase",
+            "access_rules": "LineEscape",
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Villi Phase",
+            "access_rules": ["LineEscape,[Shooters],SubWeapons"],
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Belly Phase",
+            "access_rules": ["LineEscape,Shooters,SubWeapons"],
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Intestinal Phase",
+            "access_rules": ["LineEscape,Shooters,SubWeapons"],
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Diaphragm Phase",
+            "access_rules": ["LineEscape,Shooters,SubWeapons,Inkjet"],
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Peristalsis Phase",
+            "access_rules": ["LineEscape,Shooters,SubWeapons,Inkjet"],
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Spinal Phase",
+            "access_rules": ["LineEscape,Shooters,SubWeapons,Inkjet"],
+            "visibility_rules": "IncludeEscape"
+          },
+          {
+            "name": "Commander Tartar",
+            "access_rules": ["LineEscape,Shooters,SubWeapons,Inkjet"],
+            "visibility_rules": ["IncludeEscape","TartarGoal"],
+            "chest_unopened_img": "images/tartar.png"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "Deepsea Metro",
+            "x": 615,
+            "y": 424
+          }
+        ]
+      }
+    ]
+  }
+]

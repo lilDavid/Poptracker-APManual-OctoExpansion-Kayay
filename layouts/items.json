@@ -1,0 +1,28 @@
+{
+  "items": {
+    "type": "itemgrid",
+    "item_margin": "4, 4",
+    "margin": "0, 0",
+    "h_alignment": "stretch",
+    "rows": [
+      [ "LineA", "LineB", "LineC", "LineD", "LineE", "LineF", "LineG", "LineH", "LineI", "LineJ" ],
+      [ "Shooters", "Rollers", "Chargers", "Sloshers", "Splatlings", "Dualies", "Brellas", "Blasters", "Brushes", "SubWeapons" ],
+      [  "8Ball", "Baller", "Inkjet", "Splashdown", "BombLauncher", "StingRay", "InkArmor", "BubbleBlower", "TentaMissiles" ],
+      [ "ControlThang", "PointyThang", "ContainerThang", "LidThang", "MemCake", "LockerKey", "WeaponTrap" ]
+    ]
+  },
+  "broadcast": {
+    "type": "itemgrid",
+    "background": "#303841",
+    "item_margin": "4, 4",
+    "item_size": "50",
+    "margin": "0, 0",
+    "h_alignment": "stretch",
+    "rows": [
+      [ "LineA", "LineB", "LineC", "LineD", "LineE", "LineF", "LineG", "LineH", "LineI", "LineJ" ],
+      [ "Shooters", "Rollers", "Chargers", "Sloshers", "Splatlings", "Dualies", "Brellas", "Blasters", "Brushes", "SubWeapons" ],
+      [  "8Ball", "Baller", "Inkjet", "Splashdown", "BombLauncher", "StingRay", "InkArmor", "BubbleBlower", "TentaMissiles" ],
+      [ "ControlThang", "PointyThang", "ContainerThang", "LidThang", "MemCake", "LockerKey", "WeaponTrap" ]
+    ]
+  }
+}

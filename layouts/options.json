@@ -1,0 +1,104 @@
+{
+  "settings_popup": {
+    "type": "container",
+    "background": "#303841",
+    "margin": "6, 6",
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0, 0, 100, 0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "CakeHunt",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Mem Cake Hunt",
+              "v_alignment": "center"
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "MemCakesNeeded",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Mem Cakes Needed",
+              "v_alignment": "center"
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "IncludeInnerAgent",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Include Inner Agent 3",
+              "v_alignment": "center"
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "IncludeEscape",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Include Escape",
+              "v_alignment": "center"
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "TartarGoal",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Final Boss as Goal",
+              "v_alignment": "center"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

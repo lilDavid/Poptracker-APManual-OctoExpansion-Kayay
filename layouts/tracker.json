@@ -1,0 +1,33 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#737387",
+    "content": [
+      {
+        "type": "dock",
+        "content": [
+          {
+            "type": "dock",
+            "dock": "bottom",
+            "background": "#303841",
+            "content": [
+              {
+                "type": "group",
+                "header": "Items",
+                "dock": "top",
+                "content": {
+                  "type": "layout",
+                  "key": "items"
+                }
+              }
+            ]
+          },
+          {
+            "type": "map",
+            "maps": [ "Deepsea Metro" ]
+          }
+        ]
+      }
+    ]
+  }
+}
