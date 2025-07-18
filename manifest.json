@@ -3,12 +3,16 @@
   "author": "lil David",
   "game_name": "Manual_Splatoon2OctoExpansion_Kayay",
   "package_uid": "Archipelago-Manual-OctoExpansion-Kayay-lilDavid",
-  "package_version": "0.1.0",
+  "package_version": "1.0.0",
   "platform": "Nintendo Switch",
   "variants": {
     "standard": {
-      "display_name": "Standard - Map Tracker",
+      "display_name": "Map Tracker",
       "flags": ["ap", "apmanual"]
+    },
+    "var_1_items_only": {
+      "display_name": "Items Only",
+      "flags": ["ap"]
     }
   },
   "versions_url": ""

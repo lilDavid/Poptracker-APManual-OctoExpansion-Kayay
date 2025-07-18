@@ -355,14 +355,15 @@ local function sendLocation(section)
     end
 end
 
-ScriptHost:AddOnLocationSectionChangedHandler("Manual", function(section)
-    if not AUTOTRACKER_ENABLE_LOCATION_TRACKING then return end
-    if AutoTracker:GetConnectionState("AP") ~= AUTOTRACKER_CONNECTED then return end
-    if (section.AvailableChestCount > 0) then return end
+if AUTOTRACKER_ENABLE_LOCATION_TRACKING then
+    ScriptHost:AddOnLocationSectionChangedHandler("Manual", function(section)
+        if AutoTracker:GetConnectionState("AP") ~= AUTOTRACKER_CONNECTED then return end
+        if (section.AvailableChestCount > 0) then return end
 
-    if section.FullID == "Deepsea Metro/A00 - Central Station/Game Complete" then
-        sendVictory(section)
-    else
-        sendLocation(section)
-    end
-end)
+        if section.FullID == "Deepsea Metro/A00 - Central Station/Game Complete" then
+            sendVictory(section)
+        else
+            sendLocation(section)
+        end
+    end)
+end
