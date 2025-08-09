@@ -1,4 +1,12 @@
 {
   "versions": [
+    {
+        "package_version": "1.0.0",
+        "download_url": "https://github.com/lilDavid/Poptracker-APManual-OctoExpansion-Kayay/releases/download/v1.0.0/APManual-OctoExpansion-Kayay.zip",
+        "sha256": "c2366a1bdc5a0ef60679344eb10a01f9e94828a85d43cf68bf38d8a0c3e83e63",
+        "changelog": [
+          "Initial release"
+        ]
+    }
   ]
 }
